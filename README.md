@@ -5,7 +5,7 @@
 
   <!-- Blue Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=520&lines=BS+Computer+Science+Student+%40+SZABIST;Building+Web+Applications+%F0%9F%92%BB;Community+Volunteer+%26+Educator+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=520&lines=BS+Computer+Science+Student;Building+Web+Applications+%F0%9F%92%BB;Community+Volunteer+%26+Educator+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 
   <p>
@@ -25,10 +25,10 @@
 
 > *"Dedicated to problem-solving, building intuitive web experiences, and empowering students through continuous learning and mentorship."*
 
-* 🎓 **Education:** Currently pursuing a **BS in Computer Science** at **SZABIST Karachi**[cite: 1].
-* 💻 **Academic Focus:** Strengthening core programming foundations, Object-Oriented Programming (OOP), and Web Technologies[cite: 1].
-* 📚 **Teaching & Volunteer Work:** 2+ years of private tutoring experience[cite: 1] and actively serving as **Computer Lead** with **MK Volunteers (TCF)**[cite: 1].
-* 🚀 **Career Goals:** Seeking part-time opportunities and software development internships to apply my skills[cite: 1].
+* 🎓 **Education:** Currently pursuing a **BS in Computer Science** at **SZABIST Karachi**.
+* 💻 **Academic Focus:** Strengthening core programming foundations, Object-Oriented Programming (OOP), and Web Technologies.
+* 📚 **Teaching & Volunteer Work:** 2+ years of private tutoring experience and actively serving as **Computer Lead** with **MK Volunteers (TCF)**.
+* 🚀 **Career Goals:** Seeking part-time opportunities and software development internships to apply my skills.
 
 ---
 
@@ -63,20 +63,20 @@
 
 ## 💙 Leadership & Achievements
 
-* 🌟 **Computer Lead | FSc Team** — *MK Volunteers (TCF)* `(Dec 2024 – Present)`[cite: 1]
-  * Providing academic assistance, tech education, and mentoring for students at TCF schools[cite: 1].
-* 🏆 **Certificate of Appreciation** — *The Citizens Foundation (TCF)*[cite: 1]
-  * Recognized for outstanding dedication and embodying TCF’s core values and behaviors[cite: 1].
-* 👩‍🏫 **Private Home Tutor** `(2+ Years)`[cite: 1]
-  * Mentored students and helped them excel academically across core subjects[cite: 1].
+* 🌟 **Computer Lead | FSc Team** — *MK Volunteers (TCF)* `(Dec 2024 – Present)`
+  * Providing academic assistance, tech education, and mentoring for students at TCF schools.
+* 🏆 **Certificate of Appreciation** — *The Citizens Foundation (TCF)*
+  * Recognized for outstanding dedication and embodying TCF’s core values and behaviors.
+* 👩‍🏫 **Private Home Tutor** `(2+ Years)`
+  * Mentored students and helped them excel academically across core subjects.
 
 ---
 
 ## 🎓 Education Timeline
 
-- 🎓 **BS Computer Science** | *SZABIST Karachi* `(09/2025 – Present)`[cite: 1]
-- 🏫 **HSSC General Science** | *Khursheed Govt. Girls Degree College* `(08/2023 – 06/2025)`[cite: 1]
-- 🎒 **SSC Pre-Medical** | *The Citizens Foundation (TCF)* `(08/2013 – 07/2023)`[cite: 1]
+- 🎓 **BS Computer Science** | *SZABIST Karachi* `(09/2025 – Present)`
+- 🏫 **HSSC General Science** | *Khursheed Govt. Girls Degree College* `(08/2023 – 06/2025)`
+- 🎒 **SSC Pre-Medical** | *The Citizens Foundation (TCF)* `(08/2013 – 07/2023)`
 
 ---
 
