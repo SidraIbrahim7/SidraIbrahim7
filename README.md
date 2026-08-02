@@ -1,13 +1,7 @@
 <div align="center">
 
-  <!-- Slim Top Banner GIF -->
-  <img
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXo3Mm1hYjBsazluZjRtYWhkczZkdG5paHRmdHh1dmFybnQxdjJkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTQQPJXn1j8Jy/giphy.gif"
-    width="100%"
-    height="140"
-    style="object-fit: cover;"
-    alt="Anime banner"
-  />
+  <!-- Slim Custom SVG Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=140&section=header&text=Welcome%20to%20Sidra's%20Space!%20%E2%9C%A8&fontSize=30&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <br><br>
 
