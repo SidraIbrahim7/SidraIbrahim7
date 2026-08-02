@@ -77,15 +77,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sidraibrahim&show_icons=true&theme=sky&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="Sidra's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidraibrahim&layout=compact&theme=sky&hide_border=true&title_color=38BDF8" alt="Top Languages" />
-</p>
-
----
-
 ## 🎓 Education Timeline
 
 - 🎓 **BS Computer Science** | *SZABIST Karachi* `(09/2025 – Present)`
