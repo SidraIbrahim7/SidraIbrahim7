@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Slim Cherry Blossom Top Banner -->
+  <!-- Slim Top Banner GIF -->
   <img
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBjNmNoaW9rY3lnNGcwd2p1cjg1MmNscjU3N3JtcGd6NWtxbWExZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kR5oOgEOUv4I/giphy.gif"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXo3Mm1hYjBsazluZjRtYWhkczZkdG5paHRmdHh1dmFybnQxdjJkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTQQPJXn1j8Jy/giphy.gif"
     width="100%"
     height="140"
     style="object-fit: cover;"
-    alt="Cherry blossom anime banner"
+    alt="Anime banner"
   />
 
   <br><br>
