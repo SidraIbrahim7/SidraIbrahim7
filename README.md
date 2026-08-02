@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Email-sidraibrahim691%40gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/sidra-ibrahim-497256349/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Sidra%20Ibrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-Sidra%20Ibrahim-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
 
