@@ -1,21 +1,21 @@
 <div align="center">
 
-  <!-- Slim Custom SVG Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=140&section=header&text=Welcome%20to%20Sidra's%20Space!%20%E2%9C%A8&fontSize=30&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
+  <!-- Slim Pink Floral Cherry Blossom Banner GIF -->
+  <img src="https://media.giphy.com/media/11kR5oOgEOUv4I/giphy.gif" width="100%" height="100" style="object-fit: cover;" alt="Pink Floral Banner" />
 
   <br><br>
 
-  <h1>🩵 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Sidra Ibrahim! 🦋</h1>
+  <h1>🌸 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Sidra Ibrahim! 🌷✨</h1>
   <p><b>Computer Science Student | Web Developer | Community Mentor</b></p>
 
-  <!-- Blue Animated Typing SVG -->
+  <!-- Pink Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=BS+Computer+Science+Student;Building+Web+Applications+%F0%9F%92%BB;Empowering+Students+%26+Communities+%F0%9F%A9B5;Passionate+About+Tech+For+Good+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F472B6&center=true&vcenter=true&width=550&lines=BS+Computer+Science+Student;Building+Web+Applications+%F0%9F%92%BB;Empowering+Students+%26+Communities+%F0%9F%A9B5;Passionate+About+Tech+For+Good+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p>
     <a href="mailto:sidraibrahim691@gmail.com">
-      <img src="https://img.shields.io/badge/Email-sidraibrahim691%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-sidraibrahim691%40gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/sidra-ibrahim-497256349/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Sidra%20Ibrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,7 +26,7 @@
 
 ---
 
-## ☁️ About Me
+## ☁️ 🌸 About Me
 
 > *"I believe in combining technology, empathy, and education to create meaningful tools and uplift those around me."*
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 🌱 Values & Philosophy
+## 🌱 🌺 Values & Philosophy
 
 * 💙 **Empathy & Mentorship:** Passionate about supporting others, sharing knowledge, and making education accessible to young learners.
 * 🤝 **Collaborative Spirit:** A natural team player who thrives in warm, supportive environments and loves solving problems together.
@@ -45,7 +45,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ 🌷 Tech Stack & Tools
 
 ### 💻 Programming & Web Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -62,7 +62,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 💮 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -71,7 +71,7 @@
 
 ---
 
-## 💙 Leadership & Achievements
+## 💙 🪻 Leadership & Achievements
 
 * 🌟 **Computer Lead | FSc Team** — *MK Volunteers (TCF)* `(Dec 2024 – Present)`
   * Providing academic assistance, tech education, and mentoring for students at TCF schools.
@@ -82,7 +82,7 @@
 
 ---
 
-## 🎓 Education Timeline
+## 🎓 🌼 Education Timeline
 
 - 🎓 **BS Computer Science** | *SZABIST Karachi* `(09/2025 – Present)`
 - 🏫 **HSSC General Science** | *Khursheed Govt. Girls Degree College* `(08/2023 – 06/2025)`
@@ -91,5 +91,5 @@
 ---
 
 <div align="center">
-  <p><i>Made with 🩵 by Sidra Ibrahim • Based in Karachi, Pakistan 📍</i></p>
+  <p><i>Made with 🩵 & 🌸 by Sidra Ibrahim • Based in Karachi, Pakistan 📍</i></p>
 </div>
