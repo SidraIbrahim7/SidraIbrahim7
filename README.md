@@ -1,15 +1,13 @@
 <div align="center">
 
-  <h1>🩵 Hi there, I'm Sidra Ibrahim! 🦋</h1>
+  <h1>🩵 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Sidra Ibrahim! 🦋</h1>
   <p><b>Computer Science Student | Web Developer | Community Mentor</b></p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-
 
   <!-- Blue Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=BS+Computer+Science+Student;Building+Web+Applications+%F0%9F%92%BB;Empowering+Students+%26+Communities+%F0%9F%A9B5;Passionate+About+Tech+For+Good+%E2%9C%A8" alt="Typing SVG" />
   </a>
-  
+
   <p>
     <a href="mailto:sidraibrahim691@gmail.com">
       <img src="https://img.shields.io/badge/Email-sidraibrahim691%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
