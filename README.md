@@ -20,6 +20,9 @@
     <a href="https://www.linkedin.com/in/sidra-ibrahim-497256349/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Sidra%20Ibrahim-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <a href="https://kasbu.bio/sidraibrahim" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Kasbu.bio-FFB6C1?style=for-the-badge&logo=link&logoColor=white" />
+    </a>
   </p>
 
 </div>
