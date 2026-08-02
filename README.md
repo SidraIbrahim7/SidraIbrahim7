@@ -1,5 +1,14 @@
 <div align="center">
 
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBjNmNoaW9rY3lnNGcwd2p1cjg1MmNscjU3N3JtcGd6NWtxbWExZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kR5oOgEOUv4I/giphy.gif"
+    width="100%"
+    height="140"
+    alt="Cherry blossom anime banner"
+  />
+
+  <br><br>
+
   <h1>🩵 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Sidra Ibrahim! 🦋</h1>
   <p><b>Computer Science Student | Web Developer | Community Mentor</b></p>
 
@@ -15,16 +24,6 @@
     <a href="https://www.linkedin.com/in/sidra-ibrahim-497256349/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Sidra%20Ibrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-  </p>
-
-  <br>
-
-  <p align="center">
-    <img
-      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBjNmNoaW9rY3lnNGcwd2p1cjg1MmNscjU3N3JtcGd6NWtxbWExZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kR5oOgEOUv4I/giphy.gif"
-      width="100%"
-      alt="Cherry blossom anime banner"
-    />
   </p>
 
 </div>
