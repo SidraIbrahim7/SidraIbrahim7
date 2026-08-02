@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Slim Pink Floral Cherry Blossom Banner GIF -->
-  <img src="https://media.giphy.com/media/11kR5oOgEOUv4I/giphy.gif" width="100%" height="100" style="object-fit: cover;" alt="Pink Floral Banner" />
+  <!-- Pink SVG Waving Banner (No Text) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=header" width="100%" alt="Pink SVG Header Banner" />
 
   <br><br>
 
