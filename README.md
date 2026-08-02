@@ -1,110 +1,90 @@
-Here is the complete, full README code placed inside a single code block so you can copy everything all at once using the **Copy** button in the top-right corner:
-
-```markdown
 <div align="center">
 
-  <!-- Cute Header Banner / Title -->
-  <h1>🩵 ✨ Welcome to Sidra's Tech Corner! ✨ 🦋</h1>
-  <p><b>Computer Science Student 🌸 Web Developer 🩵 Community Educator & Volunteer</b></p>
+  <h1>🩵 Hi there, I'm Sidra Ibrahim! 🦋</h1>
+  <p><b>Computer Science Student | Web Developer | Community Mentor</b></p>
 
-  <!-- Animated Typing SVG -->
+  <!-- Blue Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Coding+with+love+%26+purpose+%F0%9F%A9B5;BS+Computer+Science+Student+%F0%9F%8E%93;Crafting+sweet+%26+functional+web+pages+%F0%9F%92%BB;Making+learning+fun+for+everyone!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=BS+Computer+Science+Student;Building+Web+Applications+%F0%9F%92%BB;Empowering+Students+%26+Communities+%F0%9F%A9B5;Passionate+About+Tech+For+Good+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
-  <br><br>
-
-  <!-- Quick Contact Buttons -->
-  <a href="mailto:sidraibrahim691@gmail.com">
-    <img src="https://img.shields.io/badge/💌_Send_a_Message-sidraibrahim691%40gmail.com-89CFF0?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sidra-ibrahim-497256349/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Connect_on_LinkedIn-Sidra_Ibrahim-70A1FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <p>
+    <a href="mailto:sidraibrahim691@gmail.com">
+      <img src="https://img.shields.io/badge/Email-sidraibrahim691%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/sidra-ibrahim-497256349/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Sidra%20Ibrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 
 </div>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+## ☁️ About Me
 
-## ☁️ 🌸 About Me
+> *"I believe in combining technology, empathy, and education to create meaningful tools and uplift those around me."*
 
-```text
-  (\(\ 
- ( •.•)  "Hi! I'm Sidra — a passionate CS student who loves
- (">")   combining creativity, logic, and kindness to build 
-         meaningful web experiences!"
-
-```
-
-* 🎓 **Where I Study:** Currently pursuing my **BS in Computer Science** at **SZABIST Karachi**.
-* 💻 **What I Do:** Building front-end web applications, solving algorithmic problems, and exploring software engineering!
-* 🤍 **What Drives Me:** Helping young minds grow! I serve as **Computer Lead** for **MK Volunteers (TCF)** and have been private tutoring for 2+ years.
-* 🌟 **Current Goal:** Excited to collaborate on web development projects and seeking internship or part-time developer roles!
+* 🎓 **Education:** Currently pursuing a **BS in Computer Science** at **SZABIST Karachi**.
+* 💻 **Academic Focus:** Core programming fundamentals, Object-Oriented Programming (OOP), and modern Web Technologies.
+* 🤝 **Community Impact:** Actively serving as **Computer Lead** with **MK Volunteers (TCF)** and mentoring students through 2+ years of private tutoring.
+* 🚀 **Future Goals:** Looking for part-time developer roles and software engineering internships to build impactful solutions.
 
 ---
 
-## 🌱 🩵 My Vibe & Soft Skills
+## 🌱 Values & Philosophy
 
-> *"Tech is wonderful, but tech with empathy and heart is unstoppable."*
-
-* 🌸 **Kindness & Mentorship:** I love helping others understand tricky topics and creating welcoming, supportive spaces.
-* 🤝 **Team Harmony:** A cooperative team player who loves brainstorming, communicating clearly, and lifting up teammates.
-* ⚡ **Quick & Curious Learner:** Enthusiastic about mastering new frameworks, languages, and modern developer tools.
-* 💡 **Problem Solving:** Dedicated to finding elegant, user-friendly solutions with patient logic and creative thinking.
+* 💙 **Empathy & Mentorship:** Passionate about supporting others, sharing knowledge, and making education accessible to young learners.
+* 🤝 **Collaborative Spirit:** A natural team player who thrives in warm, supportive environments and loves solving problems together.
+* ⚡ **Growth Mindset:** Fast learner dedicated to mastering new concepts, writing clean code, and improving every day.
 
 ---
 
-## 💻 🍧 Tech Toolbox & Skills
+## 🛠️ Tech Stack & Tools
 
-### 🩵 Programming Languages & Web Tech
+### 💻 Programming & Web Technologies
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧸 Software & Developer Tools
+### 🧰 Tools & Software
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS%20Office-0083B0?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Multisim](https://img.shields.io/badge/Multisim-004088?style=for-the-badge&logo=ni&logoColor=white)
 
 ---
 
-## 🛍️ 🍽️ Featured Projects
+## 📌 Featured Projects
 
-| Project | Highlights & Features | Tech Stack |
-| --- | --- | --- |
-| 🛍️ **Zauq Interiors** | An interactive e-commerce platform built with user-friendly navigation, seamless add-to-cart functionality, checkout workflow, and backend database integration. | `HTML` `CSS` `JavaScript` `Database` |
-| 🍽️ **Flavion Restaurant** | A stylish, multi-page static website designed for a modern restaurant, complete with custom CSS layout, smooth page transitions, and structured menus. | `HTML` `CSS` |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🛍️ **Zauq Interiors** | Functional E-Commerce website featuring dynamic add-to-cart functionality, checkout system, and database integration. | `HTML` `CSS` `JS` `Database` |
+| 🍽️ **Flavion Restaurant** | Aesthetic static restaurant multi-page website with custom styling and seamless page navigation. | `HTML` `CSS` |
 
 ---
 
-## 🌟 💙 Community Work & Leadership
+## 💙 Leadership & Achievements
 
-* 💙 **Computer Lead | FSc Team** — *MK Volunteers (TCF)* `(Dec 2024 – Present)`
-* Mentoring students at TCF schools, providing academic assistance, and leading educational activities to inspire young tech learners.
-
-
+* 🌟 **Computer Lead | FSc Team** — *MK Volunteers (TCF)* `(Dec 2024 – Present)`
+  * Providing academic assistance, tech education, and mentoring for students at TCF schools.
 * 🏆 **Certificate of Appreciation** — *The Citizens Foundation (TCF)*
-* Recognized for outstanding embodiment of TCF’s core values, dedication to education, and positive community leadership.
-
-
+  * Awarded for outstanding dedication and embodying TCF’s core values and behaviors.
 * 👩‍🏫 **Private Home Tutor** `(2+ Years)`
-* Guiding and tutoring students with personalized academic support, fostering confidence and deep subject understanding.
-
-
+  * Mentoring students across various academic levels to help them achieve academic excellence.
 
 ---
 
-## 🎒 🎓 Education Journey
+## 🎓 Education Timeline
 
-* 🎓 **BS Computer Science** | *SZABIST Karachi* `(09/2025 – Present)`
-* Core Coursework: Programming Fundamentals, Object-Oriented Programming (OOP), Web Technologies.
-
-
-* 🏫 **HSSC General Science** | *Khursheed Govt. Girls Degree College* `(08/2023 – 06/2025)`
-* 🎒 **SSC Pre-Medical** | *The Citizens Foundation (TCF)* `(08/2013 – 07/2023)`
+- 🎓 **BS Computer Science** | *SZABIST Karachi* `(09/2025 – Present)`
+- 🏫 **HSSC General Science** | *Khursheed Govt. Girls Degree College* `(08/2023 – 06/2025)`
+- 🎒 **SSC Pre-Medical** | *The Citizens Foundation (TCF)* `(08/2013 – 07/2023)`
 
 ---
 
-## 🎀 🕊️ Favorite Quote
-
-> *"The best way to predict the future is to create it — with kindness, code, and continuous learning."* ✨
-
----
+<div align="center">
+  <p><i>Made with 🩵 by Sidra Ibrahim • Based in Karachi, Pakistan 📍</i></p>
+</div>
